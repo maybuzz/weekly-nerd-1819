@@ -3,21 +3,8 @@
 Elke week is er op woensdagmiddag de Weekly Nerd:
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
-
-### Voorbeelden van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
 ## Programma
+`De "waar" in deze tabel linkt naar de locatie in dit bestand`
 
 | Datum  | Wat  | Waar |
 |---|---|---|
@@ -37,12 +24,12 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 | 5 Juni | Weekly Mingle | [Matise](#Matise) |
 | 12 Juni | Weekly Mingle |  [ICATT](#ICATT) |
 
-## Weekly Nerds
+# Weekly Nerds
 Aan het begin van de minor vonden er elke woensdagmiddag Weekly Nerds plaats. Voor deze middag werd van ons studenten verwacht om aanwezig te zijn (in de medialounge of op locatie). Hieronder volgen de aantekeningen.
 
 > Ik heb de Weekly Nerd van Maike Klip op 13 Maart moeten missen in verband met ziekte.
 
-### Sketchnotes
+## Sketchnotes
 > BPH minor lokaal, door Maaike & Brit
 
 - `kaders`, `pijlen` en `lijnen` om structuur toe te passen
@@ -60,7 +47,7 @@ De typografie oefeningen vond ik het interessants. Tijdens het schrijven denk ik
 
 Last but not least, denk aan structuur en hierarchie in je verhaal. Eerder genoemde technieken (kaders, vormen etc) en typografie kunnen hierbij helpen. Zorg ook dat de hierarchie van het hele verhaal duidelijk is. Zo kan je bijvoorbeeld in blokken werken en deze afwisselend links en rechts plaatsen. Zo kun je gemakkelijk hierarchie en structuur toe passen.
 
-### Stephan Hay
+## Stephan Hay
 > ICONS meeting @ CMD Medialounge, Stephan Hay
 
 Design sameness
@@ -98,14 +85,14 @@ Het wordt tijd dat designers gaan denken vanuit het probleem, passende oplossing
 
 Het punt dat Stephan met deze talk probeert te maken is dat designers moeten leren op te staan voor wat zij vinden. Het is niet onze taak om domweg te maken wat iemand anders heeft bedacht. Het is onze kracht om zelf onderzoek te doen, zelf problemen te analyseren en passende oplossingen te vinden. Creeer je eigen archief. Door je eigen aanpak toe te passen, leer je uiteindelijk veel meer. Het mag dan wel een moeilijkere weg zijn, hij zal wel meer voldoening geven. Ook is het belangrijk in te zien hoe een opdracht in elkaar zal steken. Zo zal er in het geval van meer tijd, ook meer tijd zijn om mogelijkheden te ontdekken. `Critical thinking is key.`
 
-### Cyd & Dennis
+## Cyd & Dennis
 > BPH minorlokaal, door oud minor studenten Cyd Stumpel en Dennis Spierenburg
 
 Deze week hebben we een talk en workshop gehad van Cyd en Dennis. Beide zijn oud studenten van CMD en hebben de minor in voorgaande jaren gevolgd. Beide zijn tegenwoordig ook werkzaam bij Matisse, een bedrijf dat later in de [Weekly Mingles](#Weekly-Mingles) aan bod zal komen.
 
 Tijdens deze talk hebben we geleerd over de werkwijze van Matisse. Zo hebben ze ons laten zien hoe zijn met vue.js en componenten werken en dit met een live demo gedemonstreerd. Ik vond het leuk om te zien hoe oud studenten het na de minor doen. Cyd vertelde over haar persoonlijke ontwikkeling met coderen, met name na de minor. Dit was leuk om te horen.
 
-### Ischa Gast
+## Ischa Gast
 > Schiphol, door Ischa Gast   
 > Accesability demo, door Tom Hessels
 
@@ -132,7 +119,7 @@ Tom is zeer slechtziend en is al sinds de jaren 70 programmeur. Dit maakt dat To
 
 Een screenreader probeert te interpeteren wat de screenreader ziet. Dit betekend dat het alleen bekende elementen kan plaatsen. Screenreaders hebben verschillende geprogrammeerde stemmen waar gebruikers uit kunnen kiezen. Tom maakt zelf liever gebruik van zijn iphone omdat hij daar applicaties op kan installeren. Deze applicaties bevatten minder 'troep' dan de websites op het web. Dit is voor hem fijner omdat zijn screenreader dan niet al die onzin voor hoeft te lezen.
 
-### de Voorhoede
+## de Voorhoede
 > De Voorhoede, kantoor
 
 Deze week zijn we bij de Voorhoede op bezoek geweest. Hier hebben we een progressive enhancement workshop gehad. Allen hebben we een case gekregen waarop wij progressive enhancement toe moesten passen.
@@ -143,7 +130,7 @@ Het tweede vlak toont de eerst mogelijke enhancements. Gebruik van CSS en/of and
 
 Het derde vlak toont de uiteindelijke enhancements. Gebruik van JavaScript om animaties mogelijk te maken. Een webapp of functionalitiet mag niet afhankelijk zijn van client side JavaScript.
 
-### Daan
+## Daan
 > BPH minorlokaal, door Daan Rongen
 
 `COI` -> conflict of interests
@@ -164,7 +151,7 @@ CMD bied ons een `T-shaped` curriculum, dit staat voor een brede basis, met spec
  Een oplossing uitwerken, in plaats van weg ontwerpen.
 
 
-## Weekly Mingles
+# Weekly Mingles
 Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
 
 * <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>
@@ -178,7 +165,7 @@ Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine gro
 
 [Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
 
-### Lifely
+## Lifely
 > Peter Peerdeman
 
 Bij Lifely hebben we het gehad over wat bedrijven (als Lifely) zoeken in een "portfolio". Volgens Peter zijn er 3 punten waar een portfolio aan moet voldoen.
@@ -192,18 +179,16 @@ Een LinkedIn portfolio moet professioneel overkomen. Een goede bio en profielfot
 
 Een persoonlijke website moet in ieder geval een goede bio bevatten. Een goede bio links bijvoorbeeld naar profielen op GitHub en LinkedIn. Toon links naar relevante websites en natuurlijk je eigen gegevens. Als je helemaal afhankelijk wil zijn van je persoonlijke website kan je je relevante projecten tonen. Maar je zou natuurlijk ook een combinatie van de verschillende portfolio's kunnen kiezen. Het belangrijkste is dat content belangrijker is dan looks.
 
-### Dept
+## Dept
 
-### Elastique
+## Elastique
 
-### Valtech
+## Valtech
 
-### Mirabeau
+## Mirabeau
 
-### Q42
+## Q42
 
-### Matise
+## Matise
 
-### ICATT
-
-## Conclusie
+## ICATT
